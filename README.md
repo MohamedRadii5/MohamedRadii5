@@ -33,7 +33,8 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 * Designed dynamic Power BI dashboards tracking sales metrics and profit margins.
 
 <p align="left">
-<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### [Quick-Commerce Sales & Logistics Analysis](#)
@@ -49,6 +50,20 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
+
+### [Bike Store Data Warehouse & Analytics](#)
+
+Designed and implemented an end-to-end **Data Warehouse** for a bike store, transforming raw sales data into a structured, business-ready analytical model.
+
+- Built a **Medallion Architecture** with Bronze, Silver, and Gold layers.
+- Developed **ETL pipelines** to extract, clean, transform, and load source data.
+- Designed a **Star Schema** with fact and dimension tables for analytical reporting.
+- Created **SQL-based analytics** to generate actionable business insights.
+- Focused on sales performance, product analysis, customer behavior, and business reporting.
+
+<p align="left">
+<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+</p>  
 ---
 
 ### Technical Skills
@@ -84,13 +99,18 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 
 ### AI & Automation
 <p align="left">
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 `AI Agent Workflows` `LLM Integration` `Workflow Automation` `Machine Learning Fundamentals`
 
 ### Dev & Infrastructure
 <p align="left">
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
 ### Education & Certifications
