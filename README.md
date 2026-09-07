@@ -39,10 +39,7 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 
 ### Technical Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,mysql,postgres,msserver,excel,docker,git,github,linux,vscode,anaconda" />
-</p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,docker,git,github,linux,vscode,anaconda" /><img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /><img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> </p>
 #### Data Engineering & Big Data
 <p align="left">
 <img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><img src="https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /><img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /><img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
