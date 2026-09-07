@@ -8,17 +8,15 @@ Data Analyst with 1+ years of experience building end-to-end data pipelines, pre
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedRadii5)
 
 ---
-
 ### About
 
-Data Analyst specializing in transforming raw, multi-source data into scalable analytics solutions. My work covers end-to-end data pipelines, custom ETL architecture, interactive dashboards, and AI-driven workflow automation using n8n and Python.
+I specialize in converting complex raw datasets into actionable business intelligence and efficient data products. My experience encompasses constructing multi-tier Medallion Data Warehouses, developing robust Python & PySpark ETL automation, and building high-performance dashboards with Power BI and SQL.
 
 ### Currently Exploring
 
-* Advanced Data Engineering & Medallion Data Warehouse Architectures (Bronze/Silver/Gold)
-* Custom AI Workflow Automation with LLMs & Webhooks (n8n)
-* Distributed Data Processing with PySpark & Dask
-
+* Distributed Data Processing & Large-scale Analytics using Apache Spark & Databricks
+* Advanced Lakehouse Architectures & Medallion Data Design (Bronze / Silver / Gold)
+* Cloud-native Data Pipeline Optimization & Orchestration
 ---
 
 ### Featured Projects
@@ -46,21 +44,25 @@ Bronze, Silver, and Gold relational schema project executing scalable data trans
 
 ### Technical Skills
 
-#### Data & Analytics
+#### Data Engineering & Cloud
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
 [![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
 [![Hadoop](https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-#### Automation & Cloud
-[![n8n](https://img.shields.io/badge/N8N-FF6584?style=for-the-badge&logo=n8n&logoColor=white)](#)
+#### Analytics & Libraries
+[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![SciPy](https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](#)
+[![Plotly](https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](#)
+
+#### DevOps & Tools
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](#)
----
 
+---
 
 
 <p align="center">
