@@ -35,10 +35,13 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+---
 ### Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,databricks,spark,hadoop,mysql,postgres,powerbi,docker,git,github,linux" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,spark,dbt,mysql,postgres,docker,git,github,linux" />
+  </a>
 </p>
 
 #### Data Engineering & Big Data
@@ -46,15 +49,16 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 [![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
 [![PySpark](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
 [![Hadoop](https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#)
+[![dbt](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#)
 
 `ETL Pipelines` `Data Warehousing` `Medallion Architecture` `Data Modeling` `Distributed Computing` `Query Optimization`
 
-#### Analytics & Libraries
+#### Analytics & Databases
 
-[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![MS SQL Server](https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
 
 #### Dev & Infrastructure
 
