@@ -35,11 +35,10 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-
 ### Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,databricks,spark,hadoop,sql,powerbi,docker,git,github,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,databricks,spark,hadoop,mysql,postgres,powerbi,docker,git,github,linux" />
 </p>
 
 #### Data Engineering & Big Data
