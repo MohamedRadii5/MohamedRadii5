@@ -40,7 +40,7 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,spark,dbt,mysql,postgres,docker,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=py,ms server,excel,mysql,postgres,docker,git,github,linux" />
   </a>
 </p>
 
