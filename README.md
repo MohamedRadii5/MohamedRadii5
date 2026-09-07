@@ -55,7 +55,7 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,mysql,postgres,vscode,anaconda,docker,linux,git,github" /> </p>
 
 
-#### Data Engineering & Big Data
+### Data Engineering & Big Data
 <p align="left">
 <img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><img src="https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /><img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /><img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
@@ -81,13 +81,13 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 `DAX` `Power Query (M)` `Pandas` `NumPy` `Statistical Analysis` `A/B Testing` `Predictive Modeling` `Data Visualization` `Dashboard Design`
 
 
-#### AI & Automation
+### AI & Automation
 <p align="left">
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 `AI Agent Workflows` `LLM Integration` `Workflow Automation` `Machine Learning Fundamentals`
 
-#### Dev & Infrastructure
+### Dev & Infrastructure
 <p align="left">
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
