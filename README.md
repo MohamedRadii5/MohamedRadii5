@@ -63,13 +63,7 @@ Analytics, BI & Databases
 
 ---
 Education & Certificates
-
-🎓 Education
-
-Bachelor's Degree in Mathematics (BSc) — Faculty of Science, Mansoura University
-
-📜 Certificates
-
+BSc in Mathematics — Faculty of Science, Mansoura University
 Data Analyst Specialist — Ministry of Communications and Information Technology (MCIT)
 Associate Data Analyst in SQL — DataCamp
 Python for Data Engineering — Coursera
