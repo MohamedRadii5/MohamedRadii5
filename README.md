@@ -1,8 +1,10 @@
-## Data Analytics Engineer
+<h2 align="center">Data Analytics Engineer</h2>
 
+<p align="center">
 Aspiring Data Analytics Engineer passionate about transforming data into actionable business insights. Experienced in data modeling, analytics, and reporting to support strategic decision-making and drive business value.
+</p>
 
-<p align="left">
+<p align="center">
 <a href="mailto:m7mdelmoo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamedradi5"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://m7mdelmoo.getportify.com"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
