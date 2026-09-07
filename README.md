@@ -26,8 +26,21 @@ Data Analytics Engineer with a strong foundation in SQL, Python, PySpark, Databr
 ---
 
 ### Featured Projects
+### [Bike Store Data Warehouse & Analytics](#)
 
-#### [Global Retail Insights](#)
+Designed and implemented an end-to-end **Data Warehouse** for a bike store, transforming raw sales data into a structured, business-ready analytical model.
+
+- Built a **Medallion Architecture** with Bronze, Silver, and Gold layers.
+- Developed **ETL pipelines** to extract, clean, transform, and load source data.
+- Designed a **Star Schema** with fact and dimension tables for analytical reporting.
+- Created **SQL-based analytics** to generate actionable business insights.
+- Focused on sales performance, product analysis, customer behavior, and business reporting.
+
+<p align="left">
+<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
+</p>  
+
+### [Global Retail Insights](#)
 Comprehensive analysis of multi-region retail sales performance and customer segmentation.
 * Built end-to-end data cleaning, SQL transformation scripts, and exploratory analysis.
 * Designed dynamic Power BI dashboards tracking sales metrics and profit margins.
@@ -51,19 +64,7 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 </p>
 
 
-### [Bike Store Data Warehouse & Analytics](#)
 
-Designed and implemented an end-to-end **Data Warehouse** for a bike store, transforming raw sales data into a structured, business-ready analytical model.
-
-- Built a **Medallion Architecture** with Bronze, Silver, and Gold layers.
-- Developed **ETL pipelines** to extract, clean, transform, and load source data.
-- Designed a **Star Schema** with fact and dimension tables for analytical reporting.
-- Created **SQL-based analytics** to generate actionable business insights.
-- Focused on sales performance, product analysis, customer behavior, and business reporting.
-
-<p align="left">
-<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
-</p>  
 ---
 
 ### Technical Skills
