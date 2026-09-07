@@ -26,21 +26,22 @@ Data Analytics Engineer with a strong foundation in SQL, Python, PySpark, Databr
 
 ### Featured Projects
 
-#### [Global E-Commerce Retail Insights](#)
+#### [Global Retail Insights](#)
 Comprehensive analysis of multi-region retail sales performance and customer segmentation.
 * Built end-to-end data cleaning, SQL transformation scripts, and exploratory analysis.
 * Designed dynamic Power BI dashboards tracking sales metrics and profit margins.
+* 
+<p align="left">
+<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-### Quick-Commerce Sales & Logistics Analysis
-
+### [Quick-Commerce Sales & Logistics Analysis](#)
 Analysis, cleaning, and extraction of actionable commercial and logistical insights from a massive dataset (1,000,000 records) of a Quick-Commerce (Q-Commerce) delivery platform.
-
 Evaluated delivery operations, customer behavior, and financial performance across major Indian cities and top industry platforms.
-
 Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 
 <p align="left">
-<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
