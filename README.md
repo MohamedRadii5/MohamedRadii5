@@ -62,13 +62,13 @@ Analytics, BI & Databases
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
-Education & Certificates
-BSc in Mathematics — Faculty of Science, Mansoura University
-Data Analyst Specialist — Ministry of Communications and Information Technology (MCIT)
-Associate Data Analyst in SQL — DataCamp
-Python for Data Engineering — Coursera
-SQL Fundamentals — Maharatech (ITI)
+### Education & Certifications
 
+- **BSc in Mathematics** — Faculty of Science, Mansoura University
+- **Data Analyst Specialist** — Ministry of Communications and Information Technology (MCIT)
+- **Associate Data Analyst in SQL** — DataCamp
+- **Python for Data Engineering** — Coursera
+- **SQL Fundamentals** — Maharatech (ITI)
 ---
 <p align="center">
 📫 <a href="mailto:m7mdelmoo@gmail.com">Email</a> ·
