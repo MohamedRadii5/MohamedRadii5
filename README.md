@@ -10,7 +10,12 @@ Data Analyst with 1+ years of experience building end-to-end data pipelines, pre
 ---
 ### About
 
-I specialize in converting complex raw datasets into actionable business intelligence and efficient data products. My experience encompasses constructing multi-tier Medallion Data Warehouses, developing robust Python & PySpark ETL automation, and building high-performance dashboards with Power BI and SQL.
+Data Analytics Engineer with a strong foundation in SQL, Python, PySpark, Databricks, Power 
+BI, Excel and data warehousing. Experienced in cleaning, transforming, and analyzing data, 
+building analytical solutions, and developing data models to support business reporting and 
+decision-making. Familiar with Data Lakehouse concepts and modern data engineering practices, 
+with hands-on experience working with SQL-based data warehouse projects. Combining data 
+analytics and engineering skills to turn raw data into reliable, actionable business insights. 
 
 ### Currently Exploring
 
