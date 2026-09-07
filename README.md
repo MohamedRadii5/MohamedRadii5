@@ -30,7 +30,7 @@ Data Analytics Engineer with a strong foundation in SQL, Python, PySpark, Databr
 Comprehensive analysis of multi-region retail sales performance and customer segmentation.
 * Built end-to-end data cleaning, SQL transformation scripts, and exploratory analysis.
 * Designed dynamic Power BI dashboards tracking sales metrics and profit margins.
-* 
+
 <p align="left">
 <img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
@@ -54,12 +54,14 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,mysql,postgres,vscode,anaconda,docker,linux,git,github" /> </p>
 
+
 #### Data Engineering & Big Data
 <p align="left">
 <img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><img src="https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /><img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /><img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 `ETL / ELT Pipelines` `Data Warehousing` `Medallion Architecture` `Data Modeling (Star/Snowflake Schema)` `Distributed Computing` `Query Optimization` `Data Lakehouse` `Data Quality & Governance`
+
 
 ### Analytics, BI & Databases
 <p align="left">
@@ -75,7 +77,9 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
+
 `DAX` `Power Query (M)` `Pandas` `NumPy` `Statistical Analysis` `A/B Testing` `Predictive Modeling` `Data Visualization` `Dashboard Design`
+
 
 #### AI & Automation
 <p align="left">
