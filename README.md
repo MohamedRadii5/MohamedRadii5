@@ -1,6 +1,6 @@
 ## Data Analytics Engineer
 
-Data Analyst with 1+ years of experience building end-to-end data pipelines, predictive models, and AI workflows — from ETL transformations to n8n automated agents.
+Aspiring Data Analytics Engineer passionate about transforming data into actionable business insights. Experienced in data modeling, analytics, and reporting to support strategic decision-making and drive business value.
 
 <p align="left">
 <a href="mailto:m7mdelmoo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
