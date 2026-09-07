@@ -31,16 +31,6 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 
-#### [Three-Tier Medallion Data Warehouse Architecture](#)
-Bronze, Silver, and Gold relational schema project executing scalable data transformations.
-* Standardized raw CRM data into clean relational tables using advanced SQL and Python ETL scripts.
-* Implemented business-ready analytics layers optimized for fast querying.
-
-[![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#)
----
 
 ### Technical Skills
 
