@@ -74,6 +74,7 @@ Data Analyst Specialist — Ministry of Communications and Information Technolog
 Associate Data Analyst in SQL — DataCamp
 Python for Data Engineering — Coursera
 SQL Fundamentals — Maharatech (ITI)
+
 ---
 <p align="center">
 📫 <a href="mailto:m7mdelmoo@gmail.com">Email</a> ·
