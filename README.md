@@ -40,7 +40,7 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 ### Technical Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,msserver,excel,docker,git,github,linux,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,msserver,excel,docker,git,github,linux,vscode,anaconda" />
 </p>
 
 #### Data Engineering & Big Data
@@ -50,24 +50,19 @@ Comprehensive analysis of multi-region retail sales performance and customer seg
 
 `ETL / ELT Pipelines` `Data Warehousing` `Medallion Architecture` `Data Modeling (Star/Snowflake Schema)` `Distributed Computing` `Query Optimization` `Data Lakehouse` `Data Quality & Governance`
 
-#### Analytics, BI & Databases
-<p align="left">
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /><img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
+Analytics, BI & Databases
+<p align="left"> <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /><img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> </p>
 `DAX` `Power Query (M)` `Pandas` `NumPy` `Statistical Analysis` `A/B Testing` `Predictive Modeling` `Data Visualization` `Dashboard Design`
 
 #### AI & Automation
 <p align="left">
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /><img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 `AI Agent Workflows` `LLM Integration` `Workflow Automation` `Machine Learning Fundamentals`
 
 #### Dev & Infrastructure
 <p align="left">
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
 
