@@ -53,13 +53,15 @@ Implemented in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly.
 ### Technical Skills
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,mysql,postgres,vscode,anaconda,docker,linux,git,github" /> </p>
+
 #### Data Engineering & Big Data
 <p align="left">
 <img src="https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /><img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><img src="https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /><img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /><img src="https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 `ETL / ELT Pipelines` `Data Warehousing` `Medallion Architecture` `Data Modeling (Star/Snowflake Schema)` `Distributed Computing` `Query Optimization` `Data Lakehouse` `Data Quality & Governance`
-Analytics, BI & Databases
+
+### Analytics, BI & Databases
 <p align="left">
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/MS_SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
