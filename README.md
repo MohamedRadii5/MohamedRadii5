@@ -1,4 +1,4 @@
-<h2 align="center">Data Analytics Engineer</h2>
+<h2 align="center">Hi, I'm Mohamed Radi</h2>
 <p align="center">
 Aspiring Data Analytics Engineer passionate about transforming data into actionable business insights. Experienced in data modeling, analytics, and reporting to support strategic decision-making and drive business value.
 </p>
